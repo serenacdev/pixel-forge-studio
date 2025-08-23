@@ -5,7 +5,7 @@
 In questo progetto è stata realizzata una **pagina di presentazione** per il team di un'attività fittizia.  
 L'obiettivo principale era sperimentare e mettere in pratica l'uso delle proprietà **Float** e **Flexbox** di **CSS3**.
 
-Per la generazione dei nomi dei membri del team e della descrizione dell'attività si è fatto ricorso all'**intelligenza artificiale  ChatGPT** di OpenAI.
+Per la generazione dei nomi dei membri del team e della descrizione dell'attività si è fatto ricorso all'**intelligenza artificiale  ChatGPT** di OpenAI, mentre per le foto pexels.com. 
 
 ---
 
@@ -26,7 +26,7 @@ Per la generazione dei nomi dei membri del team e della descrizione dell'attivit
 ---
 
 ## ✅ Caratteristiche
-- Layout responsivo con Flexbox
 - Design pulito e minimale
 - Contenuti fittizi generati con AI per realismo
+- Immagini tratte da pexels.com
 

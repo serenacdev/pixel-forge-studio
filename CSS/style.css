@@ -5,6 +5,7 @@
 }
 
 
+/* ------------FONT---------- */
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -15,9 +16,14 @@ body {
     "wdth" 100;
 }
 
-h1, h2{
+h1, h2, h3, h4 {
     text-align: center;
 }
+
+h4{
+    font-style: italic
+}
+
 
 .card{
     height: 300px;
@@ -26,13 +32,13 @@ h1, h2{
     outline:3px solid crimson
 }
 
-.photo{
+img{
     border-radius: 50px;
     height: 100px;
     width: 100px;
-    background-color: red;
+    margin: 1rem;
 }
 
-h4{
-    font-style: italic
+.description{
+    margin-top: 1rem;
 }
