@@ -114,47 +114,6 @@ Bottoni principali: #4F46E5 (testo bianco)
 
 Dettagli creativi: #F97316 (per piccole call-to-action)
 
-PERSONAGGI 
-✅ 1. Alessia Romano
-
-CEO & Founder
-Visionaria e stratega con 12 anni di esperienza nel digitale.
-
-✅ 2. Marco Bellini
-
-Project Manager
-Coordina progetti e mantiene il team organizzato.
-
-✅ 3. Giulia Conti
-
-Art Director
-Definisce l’identità visiva e guida il reparto creativo.
-
-✅ 4. Luca Ferri
-
-UX/UI Designer
-Crea esperienze digitali intuitive e accattivanti.
-
-✅ 5. Sara Galli
-
-Social Media Manager
-Trasforma i brand in community digitali.
-
-✅ 6. Davide Leone
-
-Full Stack Developer
-Poliglotta del codice, ama le soluzioni scalabili.
-
-✅ 7. Martina Rossi
-
-Content Creator
-Testi persuasivi e storytelling efficace.
-
-✅ 8. Federico Bianchi
-
-Data Analyst
-Trasforma i dati in decisioni strategiche.
-
 
 
 ---descrizione come se fosse un sito vero e proprio per un cliente 
