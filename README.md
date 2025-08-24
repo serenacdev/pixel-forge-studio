@@ -107,8 +107,7 @@ link: #14B8A6 (teal vivo per pulsanti e link)con hover #0F766E
 
 ** Schema per il testo**
 
- font Montserrat [Google Fonts]
- (https://fonts.google.com/specimen/Montserrat).
+ font Montserrat [GoogleFonts](https://fonts.google.com/specimen/Montserrat).
 
 Titoli principali (H1, H2): #0F766E (teal scuro, colore brand) 
 

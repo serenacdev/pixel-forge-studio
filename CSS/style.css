@@ -28,6 +28,7 @@ h1, h2{
 
 
 h4{
+
     font-style: italic; 
     color: #6B7280;
 }
@@ -56,4 +57,13 @@ img{
 
 .description{
     margin-top: 1rem;
+}
+
+/* UTILITA' */
+.photo{
+    border:1px solid crimson
+}
+
+.card:hover{
+    box-shadow: 5px 10px 10px #0f766e;
 }
