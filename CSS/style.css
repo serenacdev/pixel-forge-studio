@@ -5,6 +5,7 @@
 }
 
 
+/* ------------FONT---------- */
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -12,27 +13,47 @@ body {
   font-weight: 400;
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+    "wdth" 100;    
+background-color: #F4F6F8;
 }
 
-h1, h2{
+/* ---------COLORS---------- */
+h1, h2, h3, h4 {
     text-align: center;
 }
 
+h1, h2{
+    color: #0F766E;
+}
+
+
+h4{
+    font-style: italic; 
+    color: #6B7280;
+}
+
+p{
+ color: #6B7280;
+}
+
+/* ------------CARD------------ */
 .card{
     height: 300px;
     width: 200px;
-    background-color: blue;
-    outline:3px solid crimson
+    background-color: #FFF;
+    outline:3px solid #CCFBF1; 
+    border-radius: 20px;
+    padding: 0.5rem;
+    margin: 1rem;
 }
 
-.photo{
+img{
     border-radius: 50px;
     height: 100px;
     width: 100px;
-    background-color: red;
+    margin: 1rem;
 }
 
-h4{
-    font-style: italic
+.description{
+    margin-top: 1rem;
 }
