@@ -15,6 +15,7 @@ body {
   font-variation-settings:
     "wdth" 100;    
 background-color: #F4F6F8;
+padding-top: 2rem;
 }
 
 /* ---------COLORS---------- */
@@ -28,7 +29,6 @@ h1, h2{
 
 
 h4{
-
     font-style: italic; 
     color: #6B7280;
 }
@@ -53,17 +53,41 @@ img{
     height: 100px;
     width: 100px;
     margin: 1rem;
+    display: inline-block;  
 }
 
 .description{
     margin-top: 1rem;
 }
 
-/* UTILITA' */
+/* decor */
 .photo{
-    border:1px solid crimson
+    text-align: center;
 }
 
 .card:hover{
     box-shadow: 5px 10px 10px #0f766e;
+    transition: 0.5s;
+}
+
+/* FLOAT */
+.card{
+    float: left; 
+    margin: 10px;
+}
+
+
+.clearfix::after{
+    content: "";
+    clear:both;
+    display: block;
+}
+
+.clearfix{
+    margin: 2rem auto;
+}
+
+.row-1, .row-2{
+    width: 900px;
+    margin: 0 auto;
 }
