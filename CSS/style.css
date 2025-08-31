@@ -15,6 +15,7 @@ body {
   font-variation-settings:
     "wdth" 100;    
 background-color: #F4F6F8;
+margin-top: 2rem;
 }
 
 /* ---------COLORS---------- */
@@ -59,11 +60,23 @@ img{
     margin-top: 1rem;
 }
 
-/* UTILITA' */
-.photo{
-    border:1px solid crimson
-}
-
+/* HOVER*/
 .card:hover{
     box-shadow: 5px 10px 10px #0f766e;
+}
+
+
+/* FLEX */
+
+.flex{
+    display: flex;
+    width: 950px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
 }
