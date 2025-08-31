@@ -8,16 +8,17 @@ L'obiettivo principale era sperimentare e mettere in pratica l'uso delle proprie
 Per la generazione dei nomi dei membri del team e della descrizione dell'attività si è fatto ricorso all'**intelligenza artificiale  ChatGPT** di OpenAI, mentre per le foto [pexels](https://www.pexels.com/it-it/).
 
 
----
+
 
 ## 🛠️ Tecnologie Utilizzate
-- **HTML5** per la struttura della pagina
-- **CSS3** con utilizzo di:
-  - **Float** per il posizionamento
-  - **Flexbox** per il layout responsivo
+- **HTML5** per la struttura semantica della pagina
+- **CSS3** pper il layout, realizzato con due approcci in branch dedicati:
+  - [**Float**](https://github.com/serenacdev/pixel-forge-studio/tree/feature-float)
+  - [**Flexbox**](https://github.com/serenacdev/pixel-forge-studio/tree/feature-flex)
+- **Git** per il controllo di versione e la gestione dei branch tramite terminale 
 
 
----
+
 
 ## 🎯 Obiettivo del progetto
 - Creare una pagina web semplice per la presentsazione della sezione team 
@@ -25,7 +26,7 @@ Per la generazione dei nomi dei membri del team e della descrizione dell'attivit
 - Design responsive  e animazioni hover (?)
 
 
----
+
 
 ## ✅ Caratteristiche
 - Design pulito e minimale
@@ -86,32 +87,52 @@ Trasforma i dati in decisioni strategiche.
 
 
 
-🎨 **Palette utilizzata**
+## Palette & Font:  🎨 
 
-Background principale: #F4F6F8 (grigio chiaro, neutro)
+**Palette utilizzata**
+
+- Background principale: #F4F6F8 (grigio chiaro, neutro)
+
+- Sottotitoli: #374151 (grigio antracite)
+
+- Testo descrittivo: #6B7280 (grigio medio)
+
+- Card: #FFFFFF (bianco puro)
+
+- Bordo card: #CCFBF1 (teal chiarissimo, accento soft)
+
+- Hover card: #ECFDF5 (verde acqua molto chiaro, effetto leggero)
+
+- link: #14B8A6 (teal vivo per pulsanti e link)con hover #0F766E
+
+
+**Schema per il testo** 
+
+-  font Montserrat [GoogleFonts](https://fonts.google.com/specimen/Montserrat).
+
+- Titoli principali (H1, H2): #0F766E (teal scuro, colore brand) 
+
+- Qualifiche: #374151 
+
+- Descrizione: #6B7280 
 
 
 
-Sottotitoli: #374151 (grigio antracite)
 
-Testo descrittivo: #6B7280 (grigio medio)
+## Come aprire il progetto in locale
 
-Card: #FFFFFF (bianco puro)
+Segui questi semplici passaggi per avviare il progetto direttamente sul tuo computer:
 
-Bordo card: #CCFBF1 (teal chiarissimo, accento soft)
+1. Clona il repository
 
-Hover card: #ECFDF5 (verde acqua molto chiaro, effetto leggero)
+git clone https://github.com/serenacdev/pixel-forge-studio.git
 
-link: #14B8A6 (teal vivo per pulsanti e link)con hover #0F766E
+cd pixel-forge-studio
 
+2. Apri il file index.html
 
-** Schema per il testo**
-
- font Montserrat [GoogleFonts](https://fonts.google.com/specimen/Montserrat).
-
-Titoli principali (H1, H2): #0F766E (teal scuro, colore brand) 
-
-Qualifiche: #374151 
-
-Descrizione: #6B7280 
+Puoi semplicemente doppio clic sul file index.html per aprirlo nel tuo browser predefinito, oppure dal terminale con i seguenti comandi:
+- start index.html   (per Windows)
+- open index.html    (per macOS)
+- xdg-open index.html (per Linux)
 
